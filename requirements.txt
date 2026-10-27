@@ -1,0 +1,6 @@
+discord.py>=2.4.0
+psutil>=6.0.0
+yt-dlp>=2025.1.1
+PyNaCl>=1.5.0
+davey>=0.1.7
+imageio-ffmpeg>=0.5.1
